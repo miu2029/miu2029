@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="./aesthetic-banner.png" alt="Muhera Banu - Aspiring Software Developer" width="100%">
+</p>
