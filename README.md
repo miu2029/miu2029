@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="./aesthetic-banner.png" alt="Muhera Banu - Aspiring Software Developer" width="100%">
+  <img src="./1000105224.png" alt="Muhera Banu - Aspiring Software Developer" width="100%">
 </p>
