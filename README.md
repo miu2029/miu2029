@@ -18,7 +18,7 @@
 
 Learning, building, and growing one step at a time.
 
-✨ Always curious. Always learning.## Hi there 👋
+✨ Always curious. Always learning.
 
 <!--
 **miu2029/miu2029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
